@@ -1,6 +1,5 @@
 +++
 description = "This is meta description"
-draft = true
 subtitle = ""
 title = "Frequently Asked Questions-(copy)"
 
