@@ -28,13 +28,9 @@ name = "Privacy Policy"
 URL = "terms-conditions"
 name = "Terms & Conditions"
 [[menu.main]]
-URL = "contact"
+URL = "faq"
 name = "Contact"
 weight = "3"
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = "4"
 [params]
 author = "Themefisher"
 contact_form_action = "remedyassetp@gmail.com"
