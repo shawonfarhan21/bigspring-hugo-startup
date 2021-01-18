@@ -28,8 +28,8 @@ name = "Privacy Policy"
 URL = "terms-conditions"
 name = "Terms & Conditions"
 [[menu.footer_right]]
-URL = "faq"
-name = "FAQ"
+URL = "contact"
+name = "Contact"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
