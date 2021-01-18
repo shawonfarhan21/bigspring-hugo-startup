@@ -45,7 +45,7 @@ URL = "pricing"
 name = "Pricing"
 weight = 2
 [[menu.main]]
-URL = "contact"
+URL = "contactt"
 name = "Contact"
 weight = "3"
 [[menu.main]]
