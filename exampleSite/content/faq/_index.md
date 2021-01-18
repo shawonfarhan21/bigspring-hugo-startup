@@ -2,11 +2,6 @@
 title: Frequently Asked Questions
 subtitle: ''
 description: This is meta description
-menu:
-  main:
-    name: Contact Us
-    URL: faq
-    weight: 1
 
 ---
 {{< faq "Will updates also be free?" >}}
