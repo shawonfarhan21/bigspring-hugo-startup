@@ -8,6 +8,6 @@ description: This is meta description
 
 #### You’ve come to the right place. **Local Ranker Pros** is the place for next-level SEO training and link building strategies.
 
-# **Contact Us**
+## **Contact Us**
 
-    Email: localrankerpros@gmail.com
+* **Email: localrankerpros@gmail.com**
