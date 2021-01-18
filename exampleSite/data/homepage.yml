@@ -15,7 +15,7 @@ feature:
   - name: Monthly Starter Pack
     icon: ti-cloud-up
     content: "$700"
-  - name: Standard Pack  <p> $1500<br></p>
+  - name: Standard Pack $1500
     icon: ti-package
     content: ''
   - name: Clean Code
