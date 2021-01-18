@@ -15,11 +15,11 @@ feature:
   - name: Monthly Starter Pack
     icon: ti-cloud-up
     content: "$700"
+  - name: Monthly Standard Pack
+    icon: ti-package
+    content: "<strong>$1500</strong>"
   - name: Clean Code
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
-    icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: 24h Service
     icon: ti-alarm-clock
