@@ -2,10 +2,6 @@
 description = "This is meta description"
 subtitle = ""
 title = "Frequently Asked Questions-(copy)"
-[menu.main]
-URL = "faq"
-name = "FAQ"
-weight = 1
 
 +++
 # Contact
