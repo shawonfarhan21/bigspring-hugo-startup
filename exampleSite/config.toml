@@ -35,8 +35,8 @@ URL = "contact"
 name = "Contact"
 weight = "3"
 [[menu.main]]
-URL = "faq"
-name = "FAQ"
+URL = "contact"
+name = "Contact"
 weight = "4"
 [params]
 author = "Themefisher"
