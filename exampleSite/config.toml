@@ -49,7 +49,7 @@ URL = "contact"
 name = "Contact"
 weight = "3"
 [[menu.main]]
-URL = "contacts"
+URL = "faq"
 name = "FAQ"
 weight = "4"
 [params]
