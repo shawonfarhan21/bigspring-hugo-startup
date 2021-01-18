@@ -12,9 +12,9 @@ feature:
   enable: true
   title: Local 3 -Pack Ranking Monthly Fees
   feature_item:
-  - name: Monthly Starter Pack
+  - name: Starter Pack $700
     icon: ti-cloud-up
-    content: "$700"
+    content: ''
   - name: Standard Pack $1500
     icon: ti-package
     content: ''
