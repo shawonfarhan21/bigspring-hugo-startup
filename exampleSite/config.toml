@@ -29,7 +29,7 @@ URL = "terms-conditions"
 name = "Terms & Conditions"
 [[menu.main]]
 URL = ""
-name = "locallyrank@gmail.com"
+name = "Email: locallyrank@gmail.com"
 weight = ""
 [[menu.main]]
 URL = "faq"

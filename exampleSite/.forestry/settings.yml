@@ -26,9 +26,6 @@ sections:
   label: Others Page
 - type: document
   path: exampleSite/content/contact/_index.md
-  label: FAQ
-- type: document
-  path: exampleSite/content/contact/_index.md
   label: Contact
 - type: document
   path: exampleSite/content/pricing/_index.md
