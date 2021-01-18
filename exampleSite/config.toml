@@ -29,7 +29,7 @@ URL = "terms-conditions"
 name = "Terms & Conditions"
 [[menu.main]]
 URL = "faq"
-name = "Contact"
+name = "Contact Us"
 weight = "3"
 [params]
 author = "Themefisher"
