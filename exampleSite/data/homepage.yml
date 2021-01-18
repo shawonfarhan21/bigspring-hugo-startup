@@ -10,8 +10,11 @@ banner:
     link: faq
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Local 3 -Pack Ranking Monthly Fees
   feature_item:
+  - name: Starter
+    icon: ti-cloud-up
+    content: "<b>$700</b>"
   - name: Clean Code
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
@@ -26,9 +29,6 @@ feature:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Faster Response
     icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: ti-cloud-up
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
