@@ -4,18 +4,12 @@ subtitle: ''
 description: This is meta description
 
 ---
-# <h1 class="css-14cif07">Want higher rankings and more traffic?</h1>
+# **Want higher rankings and more traffic?**
 
-#### <div class="css-fuu65d"><p>You’ve come to the right place. Backlinko is the place for next-level SEO training and link building strategies.</p>
+## **You’ve come to the right place. Backlinko is the place for next-level SEO training and link building strategies.**
 
-<div class="call-phone"><strong>Phone: </strong> 1800 123 000 </div>
+# **Contact Us**
 
-<div class="call-email"><strong>Email: </strong>
+## **Email:**
 
-      <a href="mailto:hugoserif@example.com">
-
-        hugoserif@example.com
-
-      </a>
-
-    </div>
+## **localrankerpros@gmail.com**
