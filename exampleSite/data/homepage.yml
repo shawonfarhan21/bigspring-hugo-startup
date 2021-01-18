@@ -45,7 +45,7 @@ service:
       tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
       consquat.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: It is a privately owned Information and cyber security company
@@ -57,7 +57,7 @@ service:
       tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
       consquat.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: It’s a team of experienced and skilled people with distributions
@@ -69,7 +69,7 @@ service:
       tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
       consquat.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: A company standing different from others
@@ -81,7 +81,7 @@ service:
       tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
       consquat.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
 screenshot:
