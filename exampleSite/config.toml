@@ -16,7 +16,7 @@ name = "About Us"
 URL = "#"
 name = "Quick Start"
 [[menu.footer_left]]
-URL = "pricing"
+URL = "price"
 name = "Pricing"
 [[menu.footer_middle]]
 URL = "pricing"
