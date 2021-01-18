@@ -28,6 +28,10 @@ name = "Privacy Policy"
 URL = "terms-conditions"
 name = "Terms & Conditions"
 [[menu.main]]
+URL = ""
+name = "locallyrank@gmail.com"
+weight = ""
+[[menu.main]]
 URL = "faq"
 name = "Contact Us"
 weight = "3"
