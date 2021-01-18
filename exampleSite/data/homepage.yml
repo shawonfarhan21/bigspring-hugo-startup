@@ -18,9 +18,9 @@ feature:
   - name: Standard Pack $1500
     icon: ti-package
     content: ''
-  - name: Clean Code
+  - name: Premium Pack $2500
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: ''
   - name: 24h Service
     icon: ti-alarm-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
