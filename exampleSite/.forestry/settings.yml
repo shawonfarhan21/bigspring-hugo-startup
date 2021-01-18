@@ -25,7 +25,7 @@ sections:
 - type: heading
   label: Others Page
 - type: document
-  path: exampleSite/content/faq/_index.md
+  path: exampleSite/content/contact/_index.md
   label: FAQ
 - type: document
   path: exampleSite/content/contact/_index.md
