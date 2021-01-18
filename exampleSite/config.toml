@@ -41,7 +41,7 @@ URL = "blog"
 name = "Blog"
 weight = 1
 [[menu.main]]
-URL = "pricing"
+URL = "pricings"
 name = "Pricing"
 weight = 2
 [[menu.main]]
