@@ -8,6 +8,7 @@ description: This is meta description
 div.a {
   text-align: center;
 }
+</style>
 <div class="a">
 <div class="col-md-6 mb-4">
   <div class="p-5 shadow rounded-lg">
