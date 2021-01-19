@@ -44,16 +44,16 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Focusing On Quick Wins Early In The Campaign Produces Fast Results
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Within the first month of your SEO Campaign, our expertise focus is on
+      finding, identifying, and fixing the major issues that could be holding the
+      businesses website back. This early-phase optimization tends to produce some
+      measurable wins in terms of indexation, impressions, and organic traffic, not
+      to mention everyone’s gorilla at the SEO table, keyword market share.
     button:
       enable: false
       label: Check it out
