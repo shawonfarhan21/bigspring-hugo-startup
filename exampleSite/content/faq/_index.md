@@ -14,9 +14,9 @@ Email Address to Rule GMB Local Pack For More Sales and Calls.
 
 Email for service inquiries  </p>
 
-    <h3>localrankerpros@gmail.com</h3> 
-  </div>
-</div>
+    <h3> localrankerpros@gmail.com </h3> 
+
+      </div>
 
 <div class="col-md-6 mb-4">
   <div class="p-5 shadow rounded-lg">
@@ -25,4 +25,3 @@ Email for service inquiries  </p>
 </p>
   </div>
 </div>
-
