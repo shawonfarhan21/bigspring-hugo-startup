@@ -44,31 +44,17 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Focusing On Quick Wins Early In The Campaign Produces Fast Results
+  - title: Struggling To Get In The 3 Pack? We Can Help You Get There
     images:
-    - images/service-1.png
-    - images/service-2.png
     - images/service-3.png
-    content: Within the first month of your SEO Campaign, our expertise focus is on
-      finding, identifying, and fixing the major issues that could be holding the
-      businesses website back. This early-phase optimization tends to produce some
-      measurable wins in terms of indexation, impressions, and organic traffic, not
-      to mention everyone’s gorilla at the SEO table, keyword market share.
-    button:
-      enable: false
-      label: Check it out
-      link: "#"
-  - title: Overcome Proximity With Hyper-Local Signals And Expand Your Visibility
-      To New Areas
-    images:
-    - images/service-1.png
-    content: Take advantage of a local optimization strategy for your local business
-      that has proven time and again to deliver real results month over month. We
-      focus on creating the signals and relevancy needed to compete for top 3 pack
-      rankings. When you start with Local Ranker Pros, you’ll get everything from
-      online brand creation, citations and directory submissions, branded NAP mentions,
-      and advanced local linkbuilding to GMB post and photos and even YouTube local
-      optimization.
+    content: Over 50% of the 1st page GMB real estate is gone and now there are local
+      search ads to worry about too! And When Citations Alone No Longer Rank Your
+      Listings…You Need to Stop Shooting in the Dark, You Need Proven GMB Optimization
+      Services designed to increase your business's online visibility, build their
+      brand prominence and increase their listing relevance. So what are the signals
+      that really matter? Citations? Clean-Up? Links? Reviews? Geo-Tags? We Optimize
+      the Local Ranking Factors that Matter. Local Maps is highly-prized Page 1 real
+      estate and it’s about time you treat it as such.
     button:
       enable: false
       label: Check it out
@@ -89,17 +75,31 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: Struggling To Get In The 3 Pack? We Can Help You Get There
+  - title: Overcome Proximity With Hyper-Local Signals And Expand Your Visibility
+      To New Areas
     images:
+    - images/service-1.png
+    content: Take advantage of a local optimization strategy for your local business
+      that has proven time and again to deliver real results month over month. We
+      focus on creating the signals and relevancy needed to compete for top 3 pack
+      rankings. When you start with Local Ranker Pros, you’ll get everything from
+      online brand creation, citations and directory submissions, branded NAP mentions,
+      and advanced local linkbuilding to GMB post and photos and even YouTube local
+      optimization.
+    button:
+      enable: false
+      label: Check it out
+      link: "#"
+  - title: Focusing On Quick Wins Early In The Campaign Produces Fast Results
+    images:
+    - images/service-1.png
+    - images/service-2.png
     - images/service-3.png
-    content: Over 50% of the 1st page GMB real estate is gone and now there are local
-      search ads to worry about too! And When Citations Alone No Longer Rank Your
-      Listings…You Need to Stop Shooting in the Dark, You Need Proven GMB Optimization
-      Services designed to increase your business's online visibility, build their
-      brand prominence and increase their listing relevance. So what are the signals
-      that really matter? Citations? Clean-Up? Links? Reviews? Geo-Tags? We Optimize
-      the Local Ranking Factors that Matter. Local Maps is highly-prized Page 1 real
-      estate and it’s about time you treat it as such.
+    content: Within the first month of your SEO Campaign, our expertise focus is on
+      finding, identifying, and fixing the major issues that could be holding the
+      businesses website back. This early-phase optimization tends to produce some
+      measurable wins in terms of indexation, impressions, and organic traffic, not
+      to mention everyone’s gorilla at the SEO table, keyword market share.
     button:
       enable: false
       label: Check it out
