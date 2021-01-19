@@ -18,7 +18,7 @@ feature:
   - name: Standard Pack $1499
     icon: ti-package
     content: ''
-  - name: Premium Pack $2500
+  - name: Premium Pack $2499
     icon: ti-pulse
     content: ''
   - name: 24h Service
