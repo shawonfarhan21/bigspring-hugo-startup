@@ -10,27 +10,13 @@ description: This is meta description
 
 <head>
 
-<style>
+<style> 
 
 h1 {text-align: center;}
 
 p {text-align: center;}
 
 div {text-align: center;}
-
-</style>
-
-</head>
-
-<body>
-
-<!DOCTYPE html>
-
-<html>
-
-<head>
-
-<style> 
 
 \#example1 {
 
@@ -52,7 +38,7 @@ div {text-align: center;}
 
 <h2>GIVE US A SHOUT</h2>
 
-<h3>localrankerpros@gmail.com<h3>
+<p>localrankerpros@gmail.com</p>
 
 </div>
 
