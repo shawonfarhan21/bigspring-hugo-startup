@@ -39,15 +39,6 @@ feature:
       Posts •Posts Scheduled Weekly •Location, Service, and Review Posts •Local Brand
       Links •Additional Signals Dripped Every Month •Tiered Linking to Entity Profiles
       •Improve Ranking and Visibility Every Month"
-  - name: 24h Service
-    icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
-    icon: ti-credit-card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
   service_item:
