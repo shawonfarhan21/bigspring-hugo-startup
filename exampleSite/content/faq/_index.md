@@ -13,10 +13,6 @@ Email Address to Rule GMB Local Pack For More Sales and Calls.
 Email for service inquiries
 
 ### localrankerpros@gmail.com </p>
-
-### Skype: shaon.madyan
-  
-  
   <div class="col-md-6 mb-4">
   <div class="p-5 shadow rounded-lg">
     <h3 class="mb-4 check-mark">Get Noticed on Google Maps For More Sales and Callls</h3>
