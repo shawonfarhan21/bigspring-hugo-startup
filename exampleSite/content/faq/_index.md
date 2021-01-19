@@ -4,16 +4,72 @@ subtitle: ''
 description: This is meta description
 
 ---
-<h1>Privacy Policy for Locally Rank</h1>
+<form action="//submit.form" id="ContactUs100" method="post" onsubmit="return ValidateForm(this);">
 
-<p>At Locally Rank, accessible from [https://locallyrank.netlify.app/,](https://locallyrank.netlify.app/, "https://locallyrank.netlify.app/,") one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Locally Rank and how we use it.</p>
+<script type="text/javascript">
 
-<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
+function ValidateForm(frm) {
 
-<p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Locally Rank. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the <a href="[https://www.privacypolicygenerator.info](https://locallyrank.netlify.app/, "https://locallyrank.netlify.app/,")">Privacy Policy Generator</a> and the <a href="[https://www.generateprivacypolicy.com/#wizard](https://locallyrank.netlify.app/, "https://locallyrank.netlify.app/,")">Free Privacy Policy Generator</a>.</p>
+if (frm.Name.value == "") { alert('Name is required.'); frm.Name.focus(); return false; }
 
-<h2>Consent</h2>
+if (frm.FromEmailAddress.value == "") { alert('Email address is required.'); frm.FromEmailAddress.focus(); return false; }
 
-<p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
+if (frm.FromEmailAddress.value.indexOf("@") < 1 || frm.FromEmailAddress.value.indexOf(".") < 1) { alert('Please enter a valid email address.'); frm.FromEmailAddress.focus(); return false; }
 
-<h2>Information we collect</h2>
+if (frm.Comments.value == "") { alert('Please enter comments or questions.'); frm.Comments.focus(); return false; }
+
+return true; }
+
+</script>
+
+<table style="width:100%;max-width:550px;border:0;" cellpadding="8" cellspacing="0">
+
+<tr> <td>
+
+<label for="Name">Name*:</label>
+
+</td> <td>
+
+<input name="Name" type="text" maxlength="60" style="width:100%;max-width:250px;" />
+
+</td> </tr> <tr> <td>
+
+<label for="PhoneNumber">Phone number:</label>
+
+</td> <td>
+
+<input name="PhoneNumber" type="text" maxlength="43" style="width:100%;max-width:250px;" />
+
+</td> </tr> <tr> <td>
+
+<label for="FromEmailAddress">Email address*:</label>
+
+</td> <td>
+
+<input name="FromEmailAddress" type="text" maxlength="90" style="width:100%;max-width:250px;" />
+
+</td> </tr> <tr> <td>
+
+<label for="Comments">Comments*:</label>
+
+</td> <td>
+
+<textarea name="Comments" rows="7" cols="40" style="width:100%;max-width:350px;"></textarea>
+
+</td> </tr> <tr> <td>
+
+\* - required fields
+
+</td> <td>
+
+<div style="float:right"><a href="[https://www.100forms.com](https://www.100forms.com "https://www.100forms.com")" id="lnk100" title="form to email">form to email</a></div>
+
+<input name="skip_Submit" type="submit" value="Submit" />
+
+<script src="[https://www.100forms.com/js/FORMKEY:D26HTQ5GR6C3/SEND:localrankerpros@gmail.com](https://www.100forms.com "https://www.100forms.com")" type="text/javascript"></script>
+
+</td> </tr>
+
+</table>
+
+</form>
