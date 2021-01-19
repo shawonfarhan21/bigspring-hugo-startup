@@ -15,7 +15,7 @@ feature:
   - name: Starter Pack $999
     icon: ti-cloud-up
     content: ''
-  - name: Standard Pack $1500
+  - name: Standard Pack $1499
     icon: ti-package
     content: ''
   - name: Premium Pack $2500
