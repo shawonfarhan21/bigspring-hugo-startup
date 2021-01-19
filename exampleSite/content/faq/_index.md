@@ -14,7 +14,7 @@ description: This is meta description
 <div class="col-md-6 mb-4">
   <div class="p-5 shadow rounded-lg">
     <h3 class="mb-4 check-mark">Discounts for students and Non Profit Organizations?</h3>
-    <p><iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=TC%20Energy%20Center,%2039th%20Floor,%20700%20Louisiana%20Street%20Houston,%20TX%2077002%20Houston+(Local%20Ranker%20Pros)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href='https://maps-generator.com/'>Maps Generator</a>
+    <p>https://daltonluka.com/wp-content/uploads/2020/09/geogrid-review.png
 </p>
   </div>
 </div>
