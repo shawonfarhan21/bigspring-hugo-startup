@@ -24,9 +24,6 @@ name = "Features"
 [[menu.footer_right]]
 URL = "privacy-policy"
 name = "Privacy Policy"
-[[menu.footer_right]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
 [[menu.main]]
 URL = ""
 name = "localrankerpros@gmail.com"
