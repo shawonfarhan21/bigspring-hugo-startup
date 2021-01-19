@@ -2,8 +2,8 @@
 banner:
   title: Want local 3-pack ranking and more sales? <br> You’ve come to the right place.
   image: images/banner-art.svg
-  content: Local Ranker Pros is the place for next-level local SEO service and local
-    business growth strategies.
+  content: "<h3>Local Ranker Pros is the place for next-level local SEO service and
+    local business growth strategies.</h3>"
   button:
     enable: true
     label: Contact With Us
