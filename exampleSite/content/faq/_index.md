@@ -4,8 +4,8 @@ subtitle: ''
 description: This is meta description
 
 ---
-<h1>We're ready to grow your business to rule the local pack and search engine.</h1>
+<p>We're ready to grow your business to rule the local pack and search engine.</p>
 
 <h2>GIVE US A SHOUT</h2>
 
-<h2>localrankerpros@gmail.com</h2>
+<p>localrankerpros@gmail.com</p>
