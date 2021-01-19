@@ -10,21 +10,19 @@ description: This is meta description
 
 <head>
 
-<style> 
+<style>
 
-h1 {text-align: center;}
+div {
 
-p {text-align: center;}
+  background-color: lightgrey;
 
-div {text-align: center;}
+  width: 300px;
 
-\#example1 {
+  border: 15px solid green;
 
-  border: 1px solid;
+  padding: 50px;
 
-  padding: 10px;
-
-  box-shadow: 5px 10px;
+  margin: 20px;
 
 }
 
@@ -34,13 +32,11 @@ div {text-align: center;}
 
 <body>
 
-<div id="example1">
+<h2>Demonstrating the Box Model</h2>
 
-<h2>GIVE US A SHOUT</h2>
+<p>The CSS box model is essentially a box that wraps around every HTML element. It consists of: borders, padding, margins, and the actual content.</p>
 
-<p>localrankerpros@gmail.com</p>
-
-</div>
+<div>This text is the content of the box. We have added a 50px padding, 20px margin and a 15px green border. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
 
 </body>
 
