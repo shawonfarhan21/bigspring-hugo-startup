@@ -12,9 +12,9 @@ Email Address to Rule GMB Local Pack For More Sales and Calls.
 
 
 
-Email for service inquiries  </p>
+Email for service inquiries 
 
-    <h3> localrankerpros@gmail.com </h3> 
+localrankerpros@gmail.com </p>
 
    </div>
 </div>
