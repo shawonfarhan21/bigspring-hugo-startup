@@ -112,8 +112,8 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Local Ranker Pros is the place for next-level local SEO service and local
+    business growth strategies.
   button:
     enable: true
     label: Contact Us
