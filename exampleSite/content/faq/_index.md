@@ -6,16 +6,15 @@ description: This is meta description
 ---
 <div class="col-md-6 mb-4">
   <div class="p-5 shadow rounded-lg">
-    <h3 class="mb-4 check-mark">Will updates also be free?</h3>
-    <p>Contact Web 20 Ranker
-Mailing Address: 3915 Union Deposit Rd, Harrisburg, PA 17109
-
-(855) 896-6657
+    <h3 class="mb-4 check-mark">Contact Local Ranker Pros</h3>
+    <p>Contact Local Ranker Pros
+Email Address to Rule GMB Local Pack For More Sales and Calls.
 
 
-Email for general inquiries
 
-support@web20ranker.com</p>
+Email for service inquiries
+
+<h3 localrankerpros@gmail.com </h3> </p>
   </div>
 </div>
 
