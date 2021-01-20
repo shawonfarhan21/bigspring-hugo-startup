@@ -8,7 +8,7 @@ banner:
     from my own desktop because I care about your business. </h2>"
   button:
     enable: true
-    label: Contact With Us
+    label: Contact With Me
     link: faq
 feature:
   enable: true
