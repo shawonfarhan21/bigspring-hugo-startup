@@ -83,12 +83,11 @@ service:
     images:
     - images/service-1.png
     content: Take advantage of a local optimization strategy for your local business
-      that has proven time and again to deliver real results month over month. We
-      focus on creating the signals and relevancy needed to compete for top 3 pack
-      rankings. When you start with Local Ranker Pros, you’ll get everything from
-      online brand creation, citations and directory submissions, branded NAP mentions,
-      and advanced local linkbuilding to GMB post and photos and even YouTube local
-      optimization.
+      that has proven time and again to deliver real results month over month. I focus
+      on creating the signals and relevancy needed to compete for top 3 pack rankings.
+      When you start with Local Ranker Pros, you’ll get everything from online brand
+      creation, citations and directory submissions, branded NAP mentions, and advanced
+      local linkbuilding to GMB post and photos and even YouTube local optimization.
     button:
       enable: false
       label: Check it out
