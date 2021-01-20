@@ -30,7 +30,7 @@ name = "localrankerpros@gmail.com"
 weight = ""
 [[menu.main]]
 URL = "faq"
-name = "Contact Us"
+name = "Contact Me"
 weight = "3"
 [params]
 author = "Themefisher"
