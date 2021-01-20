@@ -2,10 +2,10 @@
 banner:
   title: ''
   image: images/banner-art.svg
-  content: "<h2> My service is 3-times cheaper than any other popular SEO  agency
-    is offering for the same works. I don't outsource your works. I do the same works
-    and strategies like other popular SEO agency is doing. I manage all the tasks
-    from my own desktop because I care about your business. </h2>"
+  content: "<h3> My service is 3-times cheaper than any other popular SEO  agency
+    is offering for the same works. Because I don't outsource your works. I do the
+    same works and strategies like other popular SEO agency is doing. I manage all
+    the tasks from my own desktop because I care about your business. </h3>"
   button:
     enable: true
     label: Contact With Me
