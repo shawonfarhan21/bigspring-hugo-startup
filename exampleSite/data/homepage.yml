@@ -97,11 +97,11 @@ service:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Within the first month of your SEO Campaign, our expertise focus is on
-      finding, identifying, and fixing the major issues that could be holding the
-      businesses website back. This early-phase optimization tends to produce some
-      measurable wins in terms of indexation, impressions, and organic traffic, not
-      to mention everyone’s gorilla at the SEO table, keyword market share.
+    content: Within the first month of your SEO Campaign, my focus is on finding,
+      identifying, and fixing the major issues that could be holding the businesses
+      website back. This early-phase optimization tends to produce some measurable
+      wins in terms of indexation, impressions, and organic traffic, not to mention
+      everyone’s gorilla at the SEO table, keyword market share.
     button:
       enable: false
       label: Check it out
